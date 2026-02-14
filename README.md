@@ -62,8 +62,8 @@ perplexity_clone/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/ahr1223/perplexity_clone.git\
-cd perplexity_clone
+git clone https://github.com/ahr1223/perplexity-flutter.git\
+cd perplexity
 
 ### 2️⃣ Install Dependencies
 
