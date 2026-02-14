@@ -62,7 +62,7 @@ perplexity_clone/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/perplexity_clone.git\
+git clone https://github.com/ahr1223/perplexity_clone.git\
 cd perplexity_clone
 
 ### 2️⃣ Install Dependencies
