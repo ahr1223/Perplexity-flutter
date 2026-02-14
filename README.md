@@ -35,10 +35,26 @@ of Perplexity in a fully cross-platform Flutter environment.
 
 ## 📂 Project Structure
 
-perplexity_clone/ │ ├── android/ ├── ios/ ├── web/ ├── windows/ ├──
-macos/ ├── linux/ │ ├── lib/ │ ├── main.dart │ ├── screens/ │ ├──
-widgets/ │ ├── services/ │ ├── server/ \# Backend (if used) ├── test/ │
-├── pubspec.yaml └── README.md
+perplexity_clone/
+│
+├── android/
+├── ios/
+├── web/
+├── windows/
+├── macos/
+├── linux/
+│
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   ├── widgets/
+│   ├── services/
+│
+├── server/        # Backend (if used)
+├── test/
+│
+├── pubspec.yaml
+└── README.md
 
 ------------------------------------------------------------------------
 
